@@ -3,7 +3,7 @@
 Welcome to my C++ learning repository! 🚀 This is where I'm documenting my journey through the first semester of learning C++ programming. Feel free to learn and grow with me! 💻✨
 <br></br>
 
-## What's Inside?
+## What is Inside?
 
 - **Assignments:** Explore the coding challenges and exercises I tackled during the semester.
 - **Projects:** Check out the hands-on projects I worked on to apply C++ concepts.
