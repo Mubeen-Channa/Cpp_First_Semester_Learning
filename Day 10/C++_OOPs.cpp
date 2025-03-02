@@ -1,8 +1,8 @@
 // Day 10
 
 /*
-    OOP is a programming paradigm based on objects and classes. It includes concepts 
-    like encapsulation, inheritance, polymorphism, and abstraction.
+    OOP is a programming paradigm based on objects and classes.
+    It includes concepts like encapsulation, inheritance, polymorphism, and abstraction.
 */ 
 
 #include <iostream>
